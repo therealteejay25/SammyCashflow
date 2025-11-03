@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-base: #5D36F6;
+  --color-dark: #070707;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: url("../public/Manrope-VariableFont_wght.ttf");
+}
+
+*{
+  font-family: "Manrope", sans-serif;
+  letter-spacing: -0.5px;
+  /* color: #fff; */
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+}
