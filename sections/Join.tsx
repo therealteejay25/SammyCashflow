@@ -11,8 +11,9 @@ const Join = () => {
             Get started on your financial journey.
           </h2>
           <p className="text-white/50 max-w-2xl mx-auto">
-            Time to take control of your future. Join our trading collective and get access to mentorship,
-            strategies, and a community of successful traders.
+            Time to take control of your future. Join our trading collective and
+            get access to mentorship, strategies, and a community of successful
+            traders.
           </p>
         </div>
 
